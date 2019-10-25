@@ -12,9 +12,6 @@ There are a lot of different parts to [GraalVM](https://www.graalvm.org/), so
 while you may have heard of it, there are almost certainly things that it can do
 that you don't know about yet. In this exercise we'll go through some of the
 diverse features of GraalVM and show you what they can do for you.
-
-## 0. Setup
-
 In this exercise, we'll be using materials from the following article:
 https://medium.com/graalvm/graalvm-ten-things-12d9111f307d
 
@@ -23,18 +20,6 @@ You may want to clone the code onto your lab VM to help you follow along:
 ![user input](images/userinput.png)
 >```sh
 >git clone https://github.com/chrisseaton/graalvm-ten-things.git
->```
-
-You have connected to the OCI Developer Cloud Image which contains the
-Enterprise Edition of GraalVM 19.0.0 This gives us the Java and JavaScript
-languages.
-
-To ensure that the Graal versions will be used by default when invoking `java`,
-`js`, or `node`, update your `$PATH` as follows:
-
-![user input](images/userinput.png)
->```sh
->export PATH=/opt/graalvm/graalvm-ee-19.0.0/bin:$PATH
 >```
 
 You can verify that the Graal versions will be used with the following commands:
