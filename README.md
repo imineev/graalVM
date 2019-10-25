@@ -1,6 +1,5 @@
 Table of Contents:
 
-* [Exercise 0: Connect to your Virtual Machine](#exercise-0-connect-to-your-virtual-machine)
 * [Exercise 1: GraalVM](#exercise-1-graalvm)
 * [Exercise 2: Fn](#exercise-2-fn)
 * [Exercise 3: Fn + GraalVM Together](#exercise-3-fn--graalvm-together)
