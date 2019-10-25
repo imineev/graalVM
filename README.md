@@ -140,7 +140,7 @@ few seconds here or there. The `large.txt` file is 150 MB.
 
 ![user input](images/userinput.png)
 > ```sh
-> make large.txt
+> you can found large.txt in /home/demo/graalVM
 > ```
 
 ![user input](images/userinput.png)
@@ -227,7 +227,7 @@ memory used as well as time used.
 
 ![user input](images/userinput.png)
 >```sh
-> make small.txt
+> you can found small.txt in /home/demo/graalVM 
 >```
 
 ![user input](images/userinput.png)
